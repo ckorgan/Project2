@@ -1,4 +1,5 @@
-# Project2
+Course Sequence and Student Success
+
 Christos Korgan, Sarah Perez, Sheri Rosalia
 
 Problem Statement
