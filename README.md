@@ -30,3 +30,12 @@ Students’ Performances – Data from the Educational Testing Service’s Profi
 
 ![GitHub Logo](/Stu/Stu.006.png)
 ![GitHub Logo](/Stu/Stu.007.png)
+
+References
+Biemiller, L. (2019, January 20). Small Colleges Get Experimental in Bid to Survive. Retrieved 	February 16, 2019, from https://www.chronicle.com/article/Small-Colleges-Get/245512
+Bonet, G., & Walters, B. R. (2016). High impact practices: Student engagement and retention. 	College Student Journal, 50(2), 224-235.
+Froyd, J. E., Shryock, K. J., Tripathy, M., Srinivasa, A. R., & Simon, R. C. (2015, June). Patterns 	of Students’ Success: How Engineering Students Progress Through a Course Sequence. 	In Persistence and Retention. 122nd American Society for Engineering Education 	(ASEE) Annual Conference & Exposition. Seattle, WA.
+Katsinas, S. G., D'Amico, M. M., Friedel, J. N., Adair, J. L., Warner, J. L., & Malley, M. S. 	(2016). After the Great Recession: Higher Education's New Normal: An Analysis of 	National Surveys of Access and Finance Issues, 2011 to 2015.
+Mitchell, M., Leachman, M., & Masterson, K. (2017). A lost decade in higher education funding 	state cuts have driven up tuition and reduced quality.
+Raju, D., & Schumacker, R. (2015). Exploring student characteristics of retention that lead to 	graduation in higher education using data mining models. Journal of College Student 	Retention: Research, Theory & Practice, 16(4), 563-591.
+Wong, C. (2018, June). Sequence Based Course Recommender for Personalized Curriculum 	Planning. In International Conference on Artificial Intelligence in Education (pp. 531-	534). Springer, Cham.
